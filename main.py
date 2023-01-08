@@ -1,0 +1,2 @@
+import spampg
+spampg.spamm()
